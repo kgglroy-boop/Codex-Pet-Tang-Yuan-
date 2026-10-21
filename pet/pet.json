@@ -1,0 +1,8 @@
+{
+  "id": "tangyuan",
+  "displayName": "汤圆",
+  "description": "纯白蓬松的小比熊汤圆：轻轻歪头眨眼陪伴，悬停时吐出小舌尖、开心轻跳。",
+  "spritesheetPath": "spritesheet.png",
+  "spriteVersionNumber": 2,
+  "kind": "animal"
+}
